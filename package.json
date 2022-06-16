@@ -1,0 +1,19 @@
+{
+  "name": "curso-api-rest-practico",
+  "version": "1.0.0",
+  "description": "Proyecto con API REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nrmanperez/Curso-API-REST-Practico.git"
+  },
+  "author": "Norman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nrmanperez/Curso-API-REST-Practico/issues"
+  },
+  "homepage": "https://github.com/Nrmanperez/Curso-API-REST-Practico#readme"
+}
